@@ -13,3 +13,13 @@ Compile the library:
 ```sh
 go build
 ```
+
+## First Tests
+
+Following the [tutorial](https://golang.org/doc/code.html#Testing)...
+
+Test the library:
+
+```sh
+go test
+```
